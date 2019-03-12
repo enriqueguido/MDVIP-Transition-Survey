@@ -1938,7 +1938,7 @@ input, select, textarea {
 		}
 
 		.purple-hover:hover {
-			background-color: #c624ed;
+			background-color: #ffffff;
 			box-shadow: inset 0 0 0 2px #c624ed;
 			color: #c624ed !important;
 		}
