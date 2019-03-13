@@ -45,7 +45,7 @@
 				<h2>Statement of Problems</h2>
 			</header>
 			<div class="content">
-				<p><strong>The Need:</strong> After careful review of the transition survey it is my believe that there are inconstancies in the reporting and data acquisition. It is my assumption that more accurate data can be formatted and directed to create a bigger impact in the transition of our physician. The transition survey is a convoluted process that involves SalesForce reports, Survey Monkey surveys, Excel workbooks, and emails in order to provide its recipients with pertinent information that still requires a careful review to make simple assumptions of the results being presented.</p>
+				<p><strong>The Need:</strong> After careful review of the transition survey it is my believe that there are inconsistencies in the reporting and data acquisition. It is my assumption that more accurate data can be formatted and directed to create a bigger impact in the transition of our physician. The transition survey is a convoluted process that involves SalesForce reports, Survey Monkey surveys, Excel workbooks, and emails in order to provide its recipients with pertinent information that still requires a careful review to make simple assumptions of the results being presented.</p>
 				<ul class="feature-icons">
 					<li class="icon fa-laptop">Poor Reportable Data</li>
 					<li class="icon fa-bolt">Slow & Lengthy Process</li>
@@ -55,7 +55,7 @@
 					<li class="icon fa-code">Nibh amet venenatis</li> -->
 				</ul>
 				<p>
-					This proposal has been partially designed as a discovery tool to unhearth better, more cost effective ways of handling the transitions process. We are delighted to hear any ideas or suggestion you may have!
+					This proposal has been partly designed as a discovery tool to unearth better, more cost-effective ways of handling the transitions process. We are delighted to hear any ideas or suggestion you may have!
 				</p>
 			</div>
 		</section>
@@ -66,7 +66,7 @@
 				<h2>Project Description</h2>
 			</header>
 			<div class="content">
-				<p><strong>Posibilities:</strong> It is my bealive that due to the complexity of our services along side the amount of MDVIP employees that the physicians come in contact with that they often do not have/remember the appropiate information to successfully take a survey that provides acurate information. Granting a single location where the physican can search for his or her name to retrieve information such as name, phone number, and photo of the PDM,PDD, or anyone involved in the physicians' transition process. Additionally embedding SurveMonkeys' survey in the same location, and providing an opening message, videos, or explanations can potentially increase the interaction rate while retaining or decreasing overall time it take to complete the survey. The overall idea of the project is to review all transition survey questions and trunkate or remove all inecessary questions. Once the time of the survey has been diminish it is necessary to provided in the same location additional survey information particular to each physician. The physician should be able to find the information of everyone involve in the transition process and have all questions answered in the same location.</p>
+				<p><strong> Possibilities: </strong> It is my belive that due to the complexity of our services along side the amount of MDVIP employees that the physicians come in contact with that they often do not have/remember the appropriate information to successfully take a survey that provides accurate information. Granting a single location where the physician can search for his or her name to retrieve information such as name, phone number, and photo of the PDM,PDD, or anyone involved in the physicians' transition process. Additionally embedding SurveMonkeys' survey in the same location, and providing an opening message, videos, or explanations can potentially increase the interaction rate while retaining or decreasing overall time it take to complete the survey. The overall idea of the project is to review all transition survey questions and truncate or remove all unnecessary questions. Once the time of the survey has been diminish it is necessary to provided in the same location additional survey information particular to each physician. The physician should be able to find the information of everyone involve in the transition process and have all questions answered in the same location.</p>
 				<!-- Section -->
 				<section>
 					<header>
@@ -104,7 +104,7 @@
 					</header>
 					<div class="content">
 						<p>
-							The new material will mantaine the same responsibility as previous, but will expand and successfully introduce the transition survey in a matter that is more precise, removes redondencies, and more importantly it yields to better data. To accomplish this a server-side web-appilca utilizing front-end technologies, back-end technologies, and a seed in the database with all user information. The intention is to present the survey and user information via requests made to the client (web browser). The physician will navegate to a given domain name such as www.mdvip-transitionsurvey.com and be prompted with Transition Survey welcome message and a search bar. In said serach bar the physician will search for his/her name to bring up their Transition Survey team and respective information. This will follow with instructions on how to take the survey and use all the information provided for an easy and fast survey for the physician, but accurate and reliable survey for MDVIP. Additionally a contact form will be added for the physician to contact a Survey Transition designated MDVIP employee for further assistance or suggestions. Overall the new process will attempt to provide better data and reduce the margen of error in all sides.
+							The new material will maintain the same responsibility as previous, but will expand and successfully introduce the transition survey in a matter that is more precise, removes redundancies, and more importantly it yields to better data. To accomplish this a server-side web-appilca utilizing front-end technologies, back-end technologies, and a seed in the database with all user information. The intention is to present the survey and user information via requests made to the client (web browser). The physician will navigate to a given domain name such as www.mdvip-transitionsurvey.com and be prompted with Transition Survey welcome message and a search bar. In said search bar the physician will search for his/her name to bring up their Transition Survey team and respective information. This will follow with instructions on how to take the survey and use all the information provided for an easy and fast survey for the physician, but accurate and reliable survey for MDVIP. Additionally a contact form will be added for the physician to contact a Survey Transition designated MDVIP employee for further assistance or suggestions. Overall the new process will attempt to provide better data and reduce the margin of error in all sides.
 						</p>
 					</div>
 				</section>
@@ -115,7 +115,7 @@
 					</header>
 					<div class="content">
 						<p>
-							<strong>Timeframes & Constraints:</strong> The QM team will use all reasonable efforts to ensure the successful development/delivery of the project being presented to its client [TEAMS INVOLVED] no later than [DUE DATE] provided that all parties involve accept all deliverables. The minimum budget to begin the project is $50.00 and if all requested materials, and applicable instructions have been received the project producer is responsible for the communication of any delays that do not arise out of customer negligence, illnesses, or circumstances that are not in direct control of the project producer. Said producer however is responsible for all resorbable efforts to notify the parties concern with any delivery delays as soon as possible. The time of completion of said project is between 3 - 7 weeks at a normal 40 hour work week, but can alter acording to specifications and requirements from business owners/teams involved.
+							<strong>Timeframes & Constraints:</strong> The QM team will use all reasonable efforts to ensure the successful development/delivery of the project being presented to its client [TEAMS INVOLVED] no later than [DUE DATE] provided that all parties involve accept all deliverables. The minimum budget to begin the project is $50.00 and if all requested materials, and applicable instructions have been received the project producer is responsible for the communication of any delays that do not arise out of customer negligence, illnesses, or circumstances that are not in direct control of the project producer. Said producer however is responsible for all reasonable efforts to notify the parties concern with any delivery delays as soon as possible. The time of completion of said project is between 3 - 7 weeks at a normal 40 hour work week, but can alter according to specifications and requirements from business owners/teams involved.
 						</p>
 					</div>
 				</section>
@@ -129,7 +129,7 @@
 			</header>
 			<div class="content">
 				<p>
-					The project will be fragmented in three parts with additional deliberable in each section respectibly. Part one of the project will be consist of all wireframes, mockups, ERD, and designed/architechture of the web-application. The second part will consist of building all features including front-end, back-end, and databased architecture. The third and last part of the project will consist of testing all features and deploying the web-application to a live server. Additional details and deliverables will given with the project plan after the proposal has been aproved. This project and its deliverables will directly impact and benefit the Quality Department, the transition team and all the parties involved including but not limitted to PDD's, PDM's, and PTM's.
+					The project will be fragmented in three parts with additional deliverable in each section respectably. Part one of the project will be consist of all wireframes, mockups, ERD, and designed/architecture of the web-application. The second part will consist of building all features including front-end, back-end, and database architecture. The third and last part of the project will consist of testing all features and deploying the web-application to a live server. Additional details and deliverables will given with the project plan after the proposal has been approved. This project and its deliverables will directly impact and benefit the Quality Department, the transition team and all the parties involved including but not limited to PDD's, PDM's, and PTM's.
 				</p>
 			</div>
 		</section>
@@ -141,7 +141,7 @@
 			</header>
 			<div class="content">
 				<p>
-					The project will be created as a server side mobile fisrt web-application utilizing open source technology and frameworks. <br>
+					The project will be created as a server side mobile first web-application utilizing open source technology and frameworks. <br>
 					<strong> The two chosen technologies are as follow: </strong>
 					<br>
 					<strong> Frameworks </strong>
@@ -181,7 +181,7 @@
 				<h2>Get in touch</h2>
 			</header>
 			<div class="content">
-				<p><strong>Need Help!</strong> If you would like additional iformation, or have more questions please feel free to reach out at any time.</p>
+				<p><strong>Need Help!</strong> If you would like additional information, or have more questions please feel free to reach out at any time.</p>
 				<form action="https://formspree.io/genrique@mdvip.com" method="post">
 					<div class="fields">
 						<div class="field half">
